@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466723804712",
+    "firebase_url": "https://petadvisorgrupal.firebaseio.com",
+    "project_id": "petadvisorgrupal",
+    "storage_bucket": "petadvisorgrupal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466723804712:android:47fdab4a799bb6ec71c71d",
+        "android_client_info": {
+          "package_name": "com.example.petadvisormainactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466723804712-umtl6fe2a6guim4irpr5p1bd82e772fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petadvisormainactivity",
+            "certificate_hash": "4a4409017bc83c649681a78d2afb948dda7105c3"
+          }
+        },
+        {
+          "client_id": "466723804712-d9m2hin1ma9q1in69ti2t242ec9730i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi8h0hhzhGapq2dOhxXoPtUrBUKSw2RGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466723804712-d9m2hin1ma9q1in69ti2t242ec9730i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
