@@ -107,8 +107,8 @@ public class RegisterActivity extends AppCompatActivity {
                                     return;
                                 }
                             } else {
-                                progressBar.setVisibility(View.INVISIBLE);
-                                Toast.makeText(RegisterActivity.this, "Algo Ocurrío, Intentalo de nuevo!.", Toast.LENGTH_SHORT).show();
+                                progressBar.setVisibility(View.GONE);
+                                Toast.makeText(RegisterActivity.this,  task.getException().toString() , Toast.LENGTH_SHORT).show();
                             }
                         }
                     }));
